@@ -1,147 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:6A5ACD,100:00C6FF&height=220&section=header&text=Muhammad%20Rava%20Mulyana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Frontend%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:6A5ACD,100:00C6FF&height=250&section=header&text=Muhammad%20Rava%20Mulyana&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Frontend%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineer;Frontend+Developer;Next.js+%7C+React+%7C+TypeScript;Flutter+Developer;Always+Learning+New+Things"/>
-
-<p>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=MuhammadRavaMulyana&style=for-the-badge&color=blueviolet)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Software+Engineer;Frontend+Developer;Next.js+%7C+React+%7C+TailwindCSS;Flutter+Developer;Always+Learning+New+Things"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<table>
+<tr>
 
-```yaml
-Name: Muhammad Rava Mulyana
+<td width="55%">
 
-Education:
-  - Computer Science Student
+## 👨‍💻 About Me
 
-Focus:
-  - Frontend Development
-  - Web Development
-  - Mobile Development
+🎓 Final-year Computer Science Student
 
-Currently Working On:
-  - Arenaku
-  - Personal Portfolio
+💻 Passionate about Frontend Development
 
-Currently Learning:
-  - Next.js
-  - TypeScript
-  - System Design
-```
+⚛️ Building modern web applications using **Next.js**
+
+📱 Interested in **Flutter Mobile Development**
+
+🚀 Currently developing **Arenaku**
+
+🌱 Learning **System Design & Cloud**
+
+</td>
+
+<td width="45%">
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,nodejs,flutter,dart,firebase,mysql,mongodb,wordpress,figma,git,vscode&perline=8"/>
 
-</div>
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadRavaMulyana&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadRavaMulyana&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRavaMulyana&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRavaMulyana&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
----
+<p align="center">
 
-<div align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=MuhammadRavaMulyana&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=MuhammadRavaMulyana&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadRavaMulyana&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadRavaMulyana&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadRavaMulyana&theme=tokyonight&column=4&no-frame=true"/>
 
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🏸 Arenaku | Multi-tenant sports venue booking platform | Next.js, TypeScript |
-| 🌐 Portfolio | Personal portfolio website | Next.js, Tailwind CSS |
-| ✍️ QuickSign | Digital signature application | Python |
-| 🗺️ MallPath | Indoor navigation website | HTML, CSS, JavaScript |
-| 📚 JeniusAcademy | Educational platform | HTML, CSS |
+</p>
 
 ---
 
-# ⚡ Current Coding Activity
+## 🚀 Featured Projects
 
-```text
-🌱 Learning      ████████████░░░░ 75%
-
-🚀 Next.js       ███████████████░ 90%
-
-⚛ React          ███████████████░ 90%
-
-📱 Flutter       ███████████░░░░░ 70%
-
-🎨 UI/UX         █████████████░░░ 85%
-```
+| Project | Description |
+|----------|-------------|
+| 🏸 **Arenaku** | Multi-tenant sports venue booking platform |
+| 🌐 **Portfolio** | Personal portfolio with Next.js |
+| ✍️ **QuickSign** | Digital signature application |
+| 🗺️ **MallPath** | Indoor navigation website |
+| 📚 **JeniusAcademy** | Educational platform |
 
 ---
 
-# 🤝 Connect With Me
+## 🌎 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/muhammadravamulyana">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</div>
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:6A5ACD,100:00C6FF&height=120&section=footer"/>
 
