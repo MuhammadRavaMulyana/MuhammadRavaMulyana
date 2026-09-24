@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:7C3AED&text=Muhammad%20Rava%20Mulyana&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Fullstack%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,50:4F46E5,100:7C3AED&text=Muhammad%20Rava%20Mulyana&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Fullstack%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Fullstack+Developer;Next.js+%7C+React+%7C+TypeScript;Always+Learning+New+Technologies"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Engineer;Fullstack+Developer;Next.js+%7C+React+%7C+TypeScript;Always+Learning+New+Technologies"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/⚡_MOBILE_SUIT_SYSTEM-7C3AED?style=for-the-badge&labelColor=111827"/>
 
 </div>
 
@@ -10,12 +16,14 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student with a strong interest in software engineering and modern web development. I enjoy building scalable, user-friendly web applications and continuously improving my technical skills through real-world projects.
+I am a Computer Science student with a strong interest in software engineering and modern web development. I enjoy building scalable, user-friendly applications and continuously improving my technical skills through real-world projects.
 
 - 🎓 Final-year Computer Science Student
-- 💻 Interested in Fullstack Development
+- 💻 Software Engineer & Fullstack Developer
 - ⚛️ Experienced with Next.js, React, and Tailwind CSS
 - 📱 Familiar with Flutter for Mobile Development
+- 🗄️ Experienced with SQL and NoSQL databases
+- 🔧 Interested in Software Engineering and Production Systems
 - 🚀 Currently developing **Arenaku**, a multi-tenant sports venue booking platform
 
 ---
@@ -30,7 +38,7 @@ I am a Computer Science student with a strong interest in software engineering a
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -53,10 +61,58 @@ I am a Computer Science student with a strong interest in software engineering a
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | **Arenaku** | Multi-tenant sports venue booking platform with real-time scheduling and online payment integration. | Next.js, TypeScript, Tailwind CSS |
-| **Portfolio Website** | Personal portfolio showcasing projects and technical skills. | Next.js, Tailwind CSS |
-| **QuickSign** | Digital signature application. | Python |
+| **DCM Production Monitoring** | Production monitoring and visualization system for tracking machine production data and MOR. | Python, FastAPI, SQL Server |
+| **Portfolio Website** | Personal portfolio showcasing projects and technical skills. | Next.js, React, Tailwind CSS |
+| **QuickSign** | Digital sign language translation and recognition application. | Python, Computer Vision |
 | **MallPath** | Indoor navigation website. | HTML, CSS, JavaScript |
-| **JeniusAcademy** | Educational website project. | HTML, CSS |
+| **JeniusAcademy** | Educational website project. | HTML, CSS, JavaScript |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place – Men's Singles**, BINUS Badminton Members Cup 2024
+- 🥇 **1st Place – Men's Doubles**, BINUS Badminton Charity Cup 2025
+- 🥉 **3rd Place – Men's Singles**, BINUS Badminton Charity Cup 2025
+- 🏆 **Top 10 Grand Finalist**, School of Computer Science Hackathon 2024
+
+---
+
+## 💼 Experience
+
+### Production Engineering Intern
+
+**PT TACI**
+
+- Developed an automated/hybrid production data collection system.
+- Developed a machine visualization system for monitoring production progress.
+- Designed a product database with unique serial number assignment.
+- Implemented product history and serial number search for product traceability.
+- Worked with SQL Server for production data management and retrieval.
+
+### Software Engineer Intern
+
+**PT Arkana Dwi Mutiara**
+
+- Redesigned Cerita Moon website for improved UI/UX.
+- Maintained Cerita Moon and Parentoday websites.
+- Fixed bugs and implemented website improvements.
+- Integrated API Keys and NoSQL databases.
+- Integrated Midtrans payment gateway.
+
+---
+
+## 🧠 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Software_Engineering-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Production_Systems-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Industrial_Technology-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Integration-312E81?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -72,7 +128,7 @@ I am a Computer Science student with a strong interest in software engineering a
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portofolio-rava.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -81,6 +137,10 @@ I am a Computer Science student with a strong interest in software engineering a
 ---
 
 <div align="center">
+
+### ⚡ MOBILE SUIT SYSTEM
+
+**「Always Learning. Always Building.」**
 
 *"Building software with clean code, continuous learning, and attention to user experience."*
 
