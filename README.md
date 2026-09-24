@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,50:4F46E5,100:7C3AED&text=Muhammad%20Rava%20Mulyana&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Fullstack%20Developer&descAlignY=58"/>
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/RX-78-2%20GUNDAM%20(9350224325).jpg" width="100%"/>
 
 <br>
+
+<h1>Muhammad Rava Mulyana</h1>
+
+<h3>Software Engineer | Fullstack Developer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Engineer;Fullstack+Developer;Next.js+%7C+React+%7C+TypeScript;Always+Learning+New+Technologies"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/⚡_MOBILE_SUIT_SYSTEM-7C3AED?style=for-the-badge&labelColor=111827"/>
 
@@ -99,20 +103,6 @@ I am a Computer Science student with a strong interest in software engineering a
 - Fixed bugs and implemented website improvements.
 - Integrated API Keys and NoSQL databases.
 - Integrated Midtrans payment gateway.
-
----
-
-## 🧠 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Software_Engineering-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Production_Systems-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Industrial_Technology-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Integration-312E81?style=for-the-badge"/>
-
-</p>
 
 ---
 
